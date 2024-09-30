@@ -1,7 +1,8 @@
   ## Hello, I'm Yuri! Nice to have you here! :star_struck:
   
-  Bachelor in Information System at <a href=“https://www.ufpe.br“>Universidade Federal de Pernambuco </a>
-  Data Engineer at Accenture Brazil 
+ 
+  <p><em> Bachelor in Information System at <a href=“https://www.ufpe.br“>Universidade Federal de Pernambuco </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Engineer at Accenture Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 [![Linkedin: yuriralencar](https://img.shields.io/badge/-yurialencar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuriralencar/)](https://www.linkedin.com/in/yuriralencar/)
 [![GitHub Yuri](https://img.shields.io/github/followers/yuriralopes?label=follow&style=social)](https://github.com/yuriralopes)
